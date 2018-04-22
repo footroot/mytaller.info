@@ -1,1 +1,2 @@
-# mytaller.info
+# MyTaller
+Hostinger MyTaller.info

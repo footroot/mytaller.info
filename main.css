@@ -1,0 +1,33 @@
+/**
+ * Arrow in CSS
+ */
+#arrow-wrapper{
+	width: 700px;
+	height: 100px;
+	margin-top: 400px;
+}
+
+#arrow-stem {
+	background: transparent;
+	width: 600px;
+	height: 33px;
+	border-bottom: 34px solid black;
+}
+
+#arrow-head {
+	border-top: 50px solid transparent;
+	border-left: 100px solid black;
+	border-bottom: 50px solid transparent;
+}
+
+#arrow-stem, #arrow-head, #arrow-wrapper, #circleimg {
+	float: left;
+}
+
+#circleimg {
+	background-image: url(https://avatars.githubusercontent.com/u/3218904?v=3);
+	width: 475px;
+	height: 475px;
+	border-radius: 300px;
+	marging-left: 70px;
+}
